@@ -69,9 +69,9 @@
 #
 
 ### backend
-#### github
+#### github: https://github.com/Boytobeaman/foodtruck-backend
 #### url: https://java.50d.top
 #
 ### frontend
-#### github
+#### github https://github.com/Boytobeaman/foodtruck
 #### url: https://foodtruck.50d.top
